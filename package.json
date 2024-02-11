@@ -1,0 +1,23 @@
+{
+  "name": "next-app-template",
+  "version": "1.0.0",
+  "description": "Next js app template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "rest"
+  ],
+  "author": "Atikur Rabbi",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
