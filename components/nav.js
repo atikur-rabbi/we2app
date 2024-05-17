@@ -18,7 +18,7 @@ const Nav = () => {
   const pathname = usePathname();
 
   return (
-    <nav className="navbar navbar-inverse navbar-static-top">
+    <nav className="navbar navbar-inverse navbar-static-top mb-0">
       <div className="container">
           <div className="navbar-header">
               <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
